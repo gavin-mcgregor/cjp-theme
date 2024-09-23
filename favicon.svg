@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="favicon" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #000;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .cls-1 {
+          fill: #000;
+        }
+        .cls-2 {
+          fill: #fff;
+        }
+      }
+    </style>
+  </defs>
+  <circle id="base" class="cls-2" cx="250" cy="250" r="250"/>
+  <g id="monogram">
+    <path class="cls-1" d="M101.1,253.5c0-99,65-163.6,164-163.6s74.9,9.9,99.9,26.3v90.4c-28-45.6-60.3-65-98.6-65s-82.2,31.4-82.2,89.1,42.2,103.8,99.9,103.8,68.9-11.6,84.8-33.6c-5.2,68.9-43.5,103.3-118,103.3s-149.8-64.1-149.8-150.7Z"/>
+  </g>
+</svg>
